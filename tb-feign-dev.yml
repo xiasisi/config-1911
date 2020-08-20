@@ -10,3 +10,8 @@ spring:
         max-wait: -1ms
         max-idle: 10
         min-idle: 0
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/1911?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: root
