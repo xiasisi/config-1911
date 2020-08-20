@@ -1,6 +1,6 @@
 
 my:
-  name: 夏思思
+  name:夏思思
 spring:
   rabbitmq:
     host: localhost
